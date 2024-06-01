@@ -1,1 +1,8 @@
-
+Install the Azure Tools to run the application.
+Set you're OpenAI key to get the response
+Command to run the solution is "func start"
+Once the application is running test the url in Postman 
+Input format:
+     {
+       "name":"Retrieve the details of the most expensive product"
+     } 
